@@ -37,7 +37,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Above, I am creating a new ticket as an end-user. In my example, The end-user did not necessarily pick what kind of problem they were having in the "Help Topic" section, but did give a summary of their problem. This will give the agent a better idea of the end-user's issue.  
+Above, I am creating a new ticket as an end-user in the end-user portal. In my example, The end-user did not necessarily pick what kind of problem they were having in the "Help Topic" section, but did give a summary of their problem. This will give the agent a better idea of the end-user's issue.  
 </p>
 <br />
 
@@ -69,6 +69,21 @@ The ticket was also assigned to the Onliine Banking Team
 The page has been refreshed and updated to show the changes made to the following sections; Help Topic, Assigned To, Department, and SLA Plan
 
 ![image](https://github.com/user-attachments/assets/5e74dbdc-36f7-4592-9538-af7d84225f2c)
+
+Next, I am going to work the ticket as Agent "Jane" who is assigned to the "Online Banking" Department. Below, I have logged out of Agent "John's" account, and logged in as Jane. This is shown in the image below.
+
+![image](https://github.com/user-attachments/assets/cb3a9236-e29e-45dd-9103-70c0aad5db24)
+![image](https://github.com/user-attachments/assets/c6b8d4c5-7d98-435e-b277-96e15c5db252)
+
+Once Jane could open up the ticket, as part of the Online Banking team, she was able to assign the ticket specially to herself. This is shown below. A brief update is given by Jane on her work of the ticket.
+
+![image](https://github.com/user-attachments/assets/03e30cd9-9411-424b-9b2a-00ee95c10f2c) ![image](https://github.com/user-attachments/assets/aeeafb54-6630-4ee5-ac49-a7a99a3303e2) 
+![image](https://github.com/user-attachments/assets/7c114968-c5c0-46e3-a932-419200631d78)
+
+Lastly, the ticket has been set to "Resolved" and updated. Images are shown below.
+
+![image](https://github.com/user-attachments/assets/fd8bdb5d-bfd8-4799-80dd-142030fc985b)
+![image](https://github.com/user-attachments/assets/a61e3441-195a-45dd-85cd-db533b385830)
 
 
 </p>
