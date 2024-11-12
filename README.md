@@ -88,6 +88,13 @@ Lastly, the ticket has been set to "Resolved" and updated. Images are shown belo
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I had to log out as Agent Jane, and log back in as an Admin to view closed tickets. This is shown below. 
+
+  ![image](https://github.com/user-attachments/assets/e0315328-6737-42cc-b0fe-d9743ee8ab53)
+  ![image](https://github.com/user-attachments/assets/f4a29b1e-6f60-42c4-8a58-f04fb9296955)
+  ![image](https://github.com/user-attachments/assets/775aa08b-eb90-4517-bc1c-3f2ae5c032f7)
+
+
+
 </p>
 <br /># ticket-lifecycle
